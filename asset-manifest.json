@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Stocks-Portfolio/static/css/main.acdff8d4.chunk.css",
+    "main.js": "/Stocks-Portfolio/static/js/main.ee77a00b.chunk.js",
+    "main.js.map": "/Stocks-Portfolio/static/js/main.ee77a00b.chunk.js.map",
+    "runtime-main.js": "/Stocks-Portfolio/static/js/runtime-main.220c65fa.js",
+    "runtime-main.js.map": "/Stocks-Portfolio/static/js/runtime-main.220c65fa.js.map",
+    "static/css/2.b90ce945.chunk.css": "/Stocks-Portfolio/static/css/2.b90ce945.chunk.css",
+    "static/js/2.5be0ed04.chunk.js": "/Stocks-Portfolio/static/js/2.5be0ed04.chunk.js",
+    "static/js/2.5be0ed04.chunk.js.map": "/Stocks-Portfolio/static/js/2.5be0ed04.chunk.js.map",
+    "index.html": "/Stocks-Portfolio/index.html",
+    "precache-manifest.ec43abbf9b4254b715936b524743eabf.js": "/Stocks-Portfolio/precache-manifest.ec43abbf9b4254b715936b524743eabf.js",
+    "service-worker.js": "/Stocks-Portfolio/service-worker.js",
+    "static/css/2.b90ce945.chunk.css.map": "/Stocks-Portfolio/static/css/2.b90ce945.chunk.css.map",
+    "static/css/main.acdff8d4.chunk.css.map": "/Stocks-Portfolio/static/css/main.acdff8d4.chunk.css.map",
+    "static/js/2.5be0ed04.chunk.js.LICENSE.txt": "/Stocks-Portfolio/static/js/2.5be0ed04.chunk.js.LICENSE.txt",
+    "static/media/Logo.svg": "/Stocks-Portfolio/static/media/Logo.bece3765.svg",
+    "static/media/arrow.svg": "/Stocks-Portfolio/static/media/arrow.b2e47c0a.svg",
+    "static/media/lens.svg": "/Stocks-Portfolio/static/media/lens.addcea54.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.220c65fa.js",
+    "static/css/2.b90ce945.chunk.css",
+    "static/js/2.5be0ed04.chunk.js",
+    "static/css/main.acdff8d4.chunk.css",
+    "static/js/main.ee77a00b.chunk.js"
+  ]
+}
